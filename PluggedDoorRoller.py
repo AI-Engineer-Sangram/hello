@@ -8,9 +8,9 @@ import numpy as np
 import six
 import sys
 import time
-import timeit
-import glob
-import math
+#import timeit
+#import glob
+#import math
 from IPython.display import display
 from six import BytesIO
 import matplotlib
