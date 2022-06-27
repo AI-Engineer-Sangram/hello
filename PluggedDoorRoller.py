@@ -21,7 +21,7 @@ import tensorflow as tf
 from logging import getLogger
 
 print(tf.__version__)  # for Python 3
-from google.protobuf import text_format kln
+from google.protobuf import text_format klnk
 from string_int_label_map_pb2 import StringIntLabelMap
 
 from Inference.images import legacy_fetch_images, gather_api_image
